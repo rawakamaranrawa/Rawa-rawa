@@ -28,7 +28,9 @@ while (loop == 'true'):
 
      else:
 
-     	print(" rast nia !")     	os.system("clear")
+     	print(" rast nia !")     	
+        
+        os.system("clear")
 
     else:
 
