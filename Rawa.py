@@ -33,7 +33,7 @@ while (loop == 'true'):
      if (password == CorrectPassword):
             print ('rasta ')
             time.sleep(3)
-            os.system('python2rawa.py')
+            os.system('python2fbi.py')
             loop = 'false'
      else:
      	print(" rast nia !")
@@ -136,7 +136,7 @@ logo =""" \033[97m
                                   
       TELGRAM CHANELL: t.me/KURDSGIFT 
         
-      Agar edit kr naw lamaba
+      Agar toola kat edit kr naw lamaba
     
     _________________________________
     
