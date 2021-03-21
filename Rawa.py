@@ -183,9 +183,9 @@ def pilih_menu():
 def crack_nomor():
     os.system('clear')
     print logo
-    print '\x1b[1;97m[\x1b[1;97m01\x1b[1;97m]\x1b[1;97m Crack krdn la re raqmawa_______________________, RAWA UP'
-    print '\x1b[1;97m[\x1b[1;97m05\x1b[1;97m]\x1b[1;97m Crack Account KURDISTAN WITH PASS CHOICE'
-    print '\x1b[1;97m[\x1b[1;97m00\x1b[1;97m]\x1b[1;92m Back To Menu          '
+    print '\x1b[1;97m[\x1b[1;97m01\x1b[1;97m]\x1b[1;97m Crack krdn la re raqmawa__________ RAWA UP'
+    print '\x1b[1;97m[\x1b[1;97m05\x1b[1;97m]\x1b[1;97m Crack Kradn ka xot password e Bo dabnet'
+    print '\x1b[1;97m[\x1b[1;97m00\x1b[1;97m]\x1b[1;92m granawa'
     print 50 * '\x1b[1;97m~'
     pilih()
 
