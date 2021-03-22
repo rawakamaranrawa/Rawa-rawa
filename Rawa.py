@@ -109,8 +109,6 @@ def jalan(z):
         time.sleep(0.001)
 
 
-from tqdm import tqdm
-
 def load():
     with tqdm(total=100, desc='Loading ', bar_format='{l_bar}{bar}') as (pbar):
         for i in range(100):
